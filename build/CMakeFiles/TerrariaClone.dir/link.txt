@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/TerrariaClone.dir/link.d CMakeFiles/TerrariaClone.dir/main.cpp.o -o TerrariaClone  /usr/lib/libraylib.so.6.0.0 -lm
