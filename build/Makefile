@@ -129,6 +129,150 @@ TerrariaClone/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/build
 .PHONY : TerrariaClone/fast
 
+_deps/imgui-src/imgui.o: _deps/imgui-src/imgui.cpp.o
+.PHONY : _deps/imgui-src/imgui.o
+
+# target to build an object file
+_deps/imgui-src/imgui.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o
+.PHONY : _deps/imgui-src/imgui.cpp.o
+
+_deps/imgui-src/imgui.i: _deps/imgui-src/imgui.cpp.i
+.PHONY : _deps/imgui-src/imgui.i
+
+# target to preprocess a source file
+_deps/imgui-src/imgui.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.i
+.PHONY : _deps/imgui-src/imgui.cpp.i
+
+_deps/imgui-src/imgui.s: _deps/imgui-src/imgui.cpp.s
+.PHONY : _deps/imgui-src/imgui.s
+
+# target to generate assembly for a file
+_deps/imgui-src/imgui.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.s
+.PHONY : _deps/imgui-src/imgui.cpp.s
+
+_deps/imgui-src/imgui_demo.o: _deps/imgui-src/imgui_demo.cpp.o
+.PHONY : _deps/imgui-src/imgui_demo.o
+
+# target to build an object file
+_deps/imgui-src/imgui_demo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o
+.PHONY : _deps/imgui-src/imgui_demo.cpp.o
+
+_deps/imgui-src/imgui_demo.i: _deps/imgui-src/imgui_demo.cpp.i
+.PHONY : _deps/imgui-src/imgui_demo.i
+
+# target to preprocess a source file
+_deps/imgui-src/imgui_demo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.i
+.PHONY : _deps/imgui-src/imgui_demo.cpp.i
+
+_deps/imgui-src/imgui_demo.s: _deps/imgui-src/imgui_demo.cpp.s
+.PHONY : _deps/imgui-src/imgui_demo.s
+
+# target to generate assembly for a file
+_deps/imgui-src/imgui_demo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.s
+.PHONY : _deps/imgui-src/imgui_demo.cpp.s
+
+_deps/imgui-src/imgui_draw.o: _deps/imgui-src/imgui_draw.cpp.o
+.PHONY : _deps/imgui-src/imgui_draw.o
+
+# target to build an object file
+_deps/imgui-src/imgui_draw.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o
+.PHONY : _deps/imgui-src/imgui_draw.cpp.o
+
+_deps/imgui-src/imgui_draw.i: _deps/imgui-src/imgui_draw.cpp.i
+.PHONY : _deps/imgui-src/imgui_draw.i
+
+# target to preprocess a source file
+_deps/imgui-src/imgui_draw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.i
+.PHONY : _deps/imgui-src/imgui_draw.cpp.i
+
+_deps/imgui-src/imgui_draw.s: _deps/imgui-src/imgui_draw.cpp.s
+.PHONY : _deps/imgui-src/imgui_draw.s
+
+# target to generate assembly for a file
+_deps/imgui-src/imgui_draw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.s
+.PHONY : _deps/imgui-src/imgui_draw.cpp.s
+
+_deps/imgui-src/imgui_tables.o: _deps/imgui-src/imgui_tables.cpp.o
+.PHONY : _deps/imgui-src/imgui_tables.o
+
+# target to build an object file
+_deps/imgui-src/imgui_tables.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o
+.PHONY : _deps/imgui-src/imgui_tables.cpp.o
+
+_deps/imgui-src/imgui_tables.i: _deps/imgui-src/imgui_tables.cpp.i
+.PHONY : _deps/imgui-src/imgui_tables.i
+
+# target to preprocess a source file
+_deps/imgui-src/imgui_tables.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.i
+.PHONY : _deps/imgui-src/imgui_tables.cpp.i
+
+_deps/imgui-src/imgui_tables.s: _deps/imgui-src/imgui_tables.cpp.s
+.PHONY : _deps/imgui-src/imgui_tables.s
+
+# target to generate assembly for a file
+_deps/imgui-src/imgui_tables.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.s
+.PHONY : _deps/imgui-src/imgui_tables.cpp.s
+
+_deps/imgui-src/imgui_widgets.o: _deps/imgui-src/imgui_widgets.cpp.o
+.PHONY : _deps/imgui-src/imgui_widgets.o
+
+# target to build an object file
+_deps/imgui-src/imgui_widgets.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o
+.PHONY : _deps/imgui-src/imgui_widgets.cpp.o
+
+_deps/imgui-src/imgui_widgets.i: _deps/imgui-src/imgui_widgets.cpp.i
+.PHONY : _deps/imgui-src/imgui_widgets.i
+
+# target to preprocess a source file
+_deps/imgui-src/imgui_widgets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.i
+.PHONY : _deps/imgui-src/imgui_widgets.cpp.i
+
+_deps/imgui-src/imgui_widgets.s: _deps/imgui-src/imgui_widgets.cpp.s
+.PHONY : _deps/imgui-src/imgui_widgets.s
+
+# target to generate assembly for a file
+_deps/imgui-src/imgui_widgets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.s
+.PHONY : _deps/imgui-src/imgui_widgets.cpp.s
+
+_deps/rlimgui-src/rlImGui.o: _deps/rlimgui-src/rlImGui.cpp.o
+.PHONY : _deps/rlimgui-src/rlImGui.o
+
+# target to build an object file
+_deps/rlimgui-src/rlImGui.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o
+.PHONY : _deps/rlimgui-src/rlImGui.cpp.o
+
+_deps/rlimgui-src/rlImGui.i: _deps/rlimgui-src/rlImGui.cpp.i
+.PHONY : _deps/rlimgui-src/rlImGui.i
+
+# target to preprocess a source file
+_deps/rlimgui-src/rlImGui.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.i
+.PHONY : _deps/rlimgui-src/rlImGui.cpp.i
+
+_deps/rlimgui-src/rlImGui.s: _deps/rlimgui-src/rlImGui.cpp.s
+.PHONY : _deps/rlimgui-src/rlImGui.s
+
+# target to generate assembly for a file
+_deps/rlimgui-src/rlImGui.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TerrariaClone.dir/build.make CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.s
+.PHONY : _deps/rlimgui-src/rlImGui.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +306,24 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TerrariaClone"
+	@echo "... _deps/imgui-src/imgui.o"
+	@echo "... _deps/imgui-src/imgui.i"
+	@echo "... _deps/imgui-src/imgui.s"
+	@echo "... _deps/imgui-src/imgui_demo.o"
+	@echo "... _deps/imgui-src/imgui_demo.i"
+	@echo "... _deps/imgui-src/imgui_demo.s"
+	@echo "... _deps/imgui-src/imgui_draw.o"
+	@echo "... _deps/imgui-src/imgui_draw.i"
+	@echo "... _deps/imgui-src/imgui_draw.s"
+	@echo "... _deps/imgui-src/imgui_tables.o"
+	@echo "... _deps/imgui-src/imgui_tables.i"
+	@echo "... _deps/imgui-src/imgui_tables.s"
+	@echo "... _deps/imgui-src/imgui_widgets.o"
+	@echo "... _deps/imgui-src/imgui_widgets.i"
+	@echo "... _deps/imgui-src/imgui_widgets.s"
+	@echo "... _deps/rlimgui-src/rlImGui.o"
+	@echo "... _deps/rlimgui-src/rlImGui.i"
+	@echo "... _deps/rlimgui-src/rlImGui.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

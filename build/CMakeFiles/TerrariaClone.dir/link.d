@@ -3,6 +3,12 @@ TerrariaClone: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o \
   CMakeFiles/TerrariaClone.dir/main.cpp.o \
+  CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o \
+  CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o \
+  CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o \
+  CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o \
+  CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o \
+  CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o \
   /usr/lib/libraylib.so.6.0.0 \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libstdc++.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
@@ -51,6 +57,18 @@ TerrariaClone: \
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o:
 
 CMakeFiles/TerrariaClone.dir/main.cpp.o:
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o:
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o:
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o:
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o:
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o:
+
+CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o:
 
 /usr/lib/libraylib.so.6.0.0:
 

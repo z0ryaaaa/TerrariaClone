@@ -86,19 +86,115 @@ CMakeFiles/TerrariaClone.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TerrariaClone.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/z0rya/diskMain/coding/Raylib/main.cpp -o CMakeFiles/TerrariaClone.dir/main.cpp.s
 
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o: CMakeFiles/TerrariaClone.dir/flags.make
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o: _deps/imgui-src/imgui.cpp
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o: CMakeFiles/TerrariaClone.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/z0rya/diskMain/coding/Raylib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o -MF CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o.d -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o -c /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui.cpp
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui.cpp > CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.i
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui.cpp -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.s
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o: CMakeFiles/TerrariaClone.dir/flags.make
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o: _deps/imgui-src/imgui_draw.cpp
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o: CMakeFiles/TerrariaClone.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/z0rya/diskMain/coding/Raylib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o -MF CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o.d -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o -c /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_draw.cpp
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_draw.cpp > CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.i
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_draw.cpp -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.s
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o: CMakeFiles/TerrariaClone.dir/flags.make
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o: _deps/imgui-src/imgui_tables.cpp
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o: CMakeFiles/TerrariaClone.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/z0rya/diskMain/coding/Raylib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o -MF CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o.d -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o -c /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_tables.cpp
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_tables.cpp > CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.i
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_tables.cpp -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.s
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o: CMakeFiles/TerrariaClone.dir/flags.make
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o: _deps/imgui-src/imgui_widgets.cpp
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o: CMakeFiles/TerrariaClone.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/z0rya/diskMain/coding/Raylib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o -MF CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o.d -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o -c /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_widgets.cpp
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_widgets.cpp > CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.i
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_widgets.cpp -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.s
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o: CMakeFiles/TerrariaClone.dir/flags.make
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o: _deps/imgui-src/imgui_demo.cpp
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o: CMakeFiles/TerrariaClone.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/z0rya/diskMain/coding/Raylib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o -MF CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o.d -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o -c /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_demo.cpp
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_demo.cpp > CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.i
+
+CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src/imgui_demo.cpp -o CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.s
+
+CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o: CMakeFiles/TerrariaClone.dir/flags.make
+CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o: _deps/rlimgui-src/rlImGui.cpp
+CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o: CMakeFiles/TerrariaClone.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/z0rya/diskMain/coding/Raylib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o -MF CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o.d -o CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o -c /home/z0rya/diskMain/coding/Raylib/build/_deps/rlimgui-src/rlImGui.cpp
+
+CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/z0rya/diskMain/coding/Raylib/build/_deps/rlimgui-src/rlImGui.cpp > CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.i
+
+CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/z0rya/diskMain/coding/Raylib/build/_deps/rlimgui-src/rlImGui.cpp -o CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.s
+
 # Object files for target TerrariaClone
 TerrariaClone_OBJECTS = \
-"CMakeFiles/TerrariaClone.dir/main.cpp.o"
+"CMakeFiles/TerrariaClone.dir/main.cpp.o" \
+"CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o" \
+"CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o" \
+"CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o" \
+"CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o" \
+"CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o" \
+"CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o"
 
 # External object files for target TerrariaClone
 TerrariaClone_EXTERNAL_OBJECTS =
 
 TerrariaClone: CMakeFiles/TerrariaClone.dir/main.cpp.o
+TerrariaClone: CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui.cpp.o
+TerrariaClone: CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_draw.cpp.o
+TerrariaClone: CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_tables.cpp.o
+TerrariaClone: CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_widgets.cpp.o
+TerrariaClone: CMakeFiles/TerrariaClone.dir/_deps/imgui-src/imgui_demo.cpp.o
+TerrariaClone: CMakeFiles/TerrariaClone.dir/_deps/rlimgui-src/rlImGui.cpp.o
 TerrariaClone: CMakeFiles/TerrariaClone.dir/build.make
 TerrariaClone: CMakeFiles/TerrariaClone.dir/compiler_depend.ts
 TerrariaClone: /usr/lib/libraylib.so.6.0.0
 TerrariaClone: CMakeFiles/TerrariaClone.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/z0rya/diskMain/coding/Raylib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TerrariaClone"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/z0rya/diskMain/coding/Raylib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable TerrariaClone"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TerrariaClone.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

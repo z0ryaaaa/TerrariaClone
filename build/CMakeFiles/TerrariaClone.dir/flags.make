@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED
 
-CXX_INCLUDES = -I/home/z0rya/diskMain/coding/Raylib
+CXX_INCLUDES = -I/home/z0rya/diskMain/coding/Raylib -I/home/z0rya/diskMain/coding/Raylib/build/_deps/imgui-src -I/home/z0rya/diskMain/coding/Raylib/build/_deps/rlimgui-src
 
 CXX_FLAGS = -std=gnu++17
 
